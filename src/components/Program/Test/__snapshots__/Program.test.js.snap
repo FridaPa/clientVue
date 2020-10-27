@@ -1,0 +1,305 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testProgram renders correctly 1`] = `
+<div>
+  <div
+    class="col col-11"
+  >
+    <div
+      class="col col-10"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="col-sm-6 col-md-3 col-3"
+        >
+          <div
+            class="v-input theme--light v-text-field"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    class="v-label theme--light"
+                    for="input-3"
+                    style="right: 0px; position: absolute;"
+                  >
+                    Programtitel...
+                  </label>
+                  <input
+                    id="input-3"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <transition-group-stub
+                    class="v-messages__wrapper"
+                    name="message-transition"
+                    tag="div"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <br />
+         
+        <div
+          class="col-sm-6 col-md-3 col-3"
+        >
+          <div
+            class="v-input theme--light v-text-field"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    class="v-label theme--light"
+                    for="input-6"
+                    style="right: 0px; position: absolute;"
+                  >
+                    Säsong...
+                  </label>
+                  <input
+                    id="input-6"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <transition-group-stub
+                    class="v-messages__wrapper"
+                    name="message-transition"
+                    tag="div"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <br />
+         
+        <div
+          class="col col-3"
+        >
+          <div
+            class="v-input theme--light v-text-field"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    class="v-label theme--light"
+                    for="input-9"
+                    style="right: 0px; position: absolute;"
+                  >
+                    Episod...
+                  </label>
+                  <input
+                    id="input-9"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <transition-group-stub
+                    class="v-messages__wrapper"
+                    name="message-transition"
+                    tag="div"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="row justify-center"
+        >
+          <button
+            class="btnDialogAccept"
+          >
+            Lägg till program
+          </button>
+          <div
+            class="v-dialog__container"
+            role="dialog"
+          >
+            <!---->
+          </div>
+        </div>
+      </div>
+    </div>
+     
+    <header
+      class="toolbar v-sheet theme--light v-toolbar"
+      style="height: 50px; background-color: rgb(23, 124, 196); border-color: #177cc4;"
+    >
+      <div
+        class="v-toolbar__content"
+        style="height: 50px;"
+      >
+        <div
+          class="row"
+        >
+          <div
+            class="align col col-1"
+          >
+            <p
+              class="toolbarFont"
+            >
+              Kanal
+            </p>
+          </div>
+           
+          <div
+            class="align col col-2"
+          >
+            <p
+              class="toolbarFont"
+            >
+              Titel
+            </p>
+          </div>
+           
+          <div
+            class="align col col-1"
+          >
+            <div
+              class="row"
+            >
+              <div
+                class="pa-0 col col-6"
+              >
+                <p
+                  class="toolbarFont"
+                >
+                  S
+                </p>
+              </div>
+               
+              <div
+                class="pa-0 col col-6"
+              >
+                <p
+                  class="toolbarFont"
+                >
+                  E
+                </p>
+              </div>
+            </div>
+          </div>
+           
+          <div
+            class="col col-4"
+          >
+            <div
+              class="row"
+            >
+              <div
+                class="pa-0 col col-4"
+              >
+                <p
+                  class="toolbarFont"
+                >
+                  Genre 1
+                </p>
+              </div>
+               
+              <div
+                class="pa-0 col col-4"
+              >
+                <p
+                  class="toolbarFont"
+                >
+                  Genre 2
+                </p>
+              </div>
+               
+              <div
+                class="pa-0 col col-4"
+              >
+                <p
+                  class="toolbarFont"
+                >
+                  Genre 3
+                </p>
+              </div>
+            </div>
+          </div>
+           
+          <div
+            class="align col col-1"
+          >
+            <div
+              class="row"
+            >
+              <div
+                class="pa-0 col col-6"
+              >
+                <p
+                  class="toolbarFont"
+                >
+                  M
+                </p>
+              </div>
+               
+              <div
+                class="pa-0 col col-6"
+              >
+                <p
+                  class="toolbarFont"
+                >
+                  L
+                </p>
+              </div>
+            </div>
+          </div>
+           
+          <div
+            class="align col col-3"
+          />
+        </div>
+      </div>
+    </header>
+     
+  </div>
+</div>
+`;
